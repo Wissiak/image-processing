@@ -1,7 +1,7 @@
 # Image Processing
 Image Processing scripts for IPCV1 course at OST university
 
-## Scripts
+## Scripts
 The scripts included in this repository should help other students to prepare for the exam of the IPCV1 course at OST university. The scripts visualize and illustrate certain topics of Image Processing and are related to the content taught at OST university.
 
 ### Script 1: `brightness_enhancement.py`
