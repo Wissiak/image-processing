@@ -19,7 +19,8 @@ This script shows the covariance matrix of the original image and the one of red
 ### Script 4: `geometric_tranformations.py`
 This script implements the affine transform for rotation of an image. 
 ![](images/geometric_transformation.png)
-The result for 30° might look weird but the rotation happens __around the orgin__.
+
+The result for 30° might look weird but the rotation happens __around the orgin__ which is at (0,0).
 
 ### Script 5: `histogram_equalization_error.py`
 This script shows erroneous histogram equalization (r**2 instead of r). Every intensity greater than 16 is mapped to 255:
